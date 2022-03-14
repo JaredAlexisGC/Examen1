@@ -1,0 +1,15 @@
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.exe
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.deps.json
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.runtimeconfig.json
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\bin\Debug\net6.0\ref\JuegoDados.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.pdb
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.AssemblyReference.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfoInputs.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfo.cs
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\ref\JuegoDados.dll
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.pdb
+C:\Users\Jesus\Desktop\Semestre ene-jun 2022\Programacion visual .NET\Examen1\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.genruntimeconfig.cache
