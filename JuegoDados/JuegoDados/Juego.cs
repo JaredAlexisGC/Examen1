@@ -119,7 +119,7 @@ namespace JuegoDados
                         break;
                     case 3:
                         Console.WriteLine("Tiradas realizadas: " + _tiros);
-                        Console.WriteLine("Balance: " + _balance);
+                        Console.WriteLine("Balance: " + _dineroActual);
                         Console.WriteLine("Numero mas tirado: " + _numMasTiros);
                         Console.WriteLine("Numero menos tirado: " + _numMenosTiros);
                         Console.WriteLine("Resultados extremos: " + _extremos);
